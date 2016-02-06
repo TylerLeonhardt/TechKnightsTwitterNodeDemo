@@ -573,3 +573,7 @@ Twitter.stream('statuses/filter', {track: '#TechKnightsDemoMagic'}, function(str
   });
 });
 ```
+
+Enjoy!
+
+Check out more awesome workshops at: http://techknights.org/workshops/
