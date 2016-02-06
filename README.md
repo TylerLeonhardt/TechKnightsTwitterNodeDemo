@@ -1,10 +1,4 @@
----
-title: Creating a basic Twitter Bot in Node.js
-slug: workshops/nodejs-twitterbot
-template: workshop
-author: Tyler Leonhardt
----
-
+# Creating a basic Twitter Bot in Node.js
 
 In this workshop, we will be making a Twitter bot written in Javascript using Node.js. What are these words I am saying??
 
